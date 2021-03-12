@@ -7,9 +7,9 @@ const BookContainer = () => {
   return (
     <div
       className="h-screen w-full flex flex-col sm:flex-row justify-between
-      pt-16 pb-20 bg-gradient-to-b from-blue-200 to-pink-400
+      pt-16 pb-20 bg-gradient-to-b from-purple-400 to-blue-200
       "
-      id="books"
+      id="book"
     >
       <FujiSanComponent />
       <GrassComponent />

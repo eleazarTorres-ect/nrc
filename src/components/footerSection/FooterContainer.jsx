@@ -127,7 +127,7 @@ const FooterContainer = () => {
             "
         >
           <div className="mt-2 flex justify-center text-center">
-            © Copyright 1998-year. All Rights Reserved.
+            © Copyright 2021. All Rights Reserved.
           </div>
         </div>
       </div>

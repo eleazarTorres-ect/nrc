@@ -5,14 +5,6 @@ import SkyComponent from "./SkyComponent";
 import TorriGateComponent from "./ToriiGateComponent";
 import $ from "jquery";
 const BannerContainer = () => {
-  //let bg =  $("#home").offset().top;
-  let bg = $("#home").css("top");
-  let fuji = $("#fuji").css("top");
-  let grass = $("#grass").css("right");
-  let sky = $("#sky").css("top");
-  let gate = $("#gate").css("top");
-  let text = $("#text").css("top");
-
   window.addEventListener("scroll", function () {
     var value = $(window).scrollTop();
 

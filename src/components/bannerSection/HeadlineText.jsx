@@ -4,7 +4,7 @@ const HeadlineText = () => {
     <div className="h-screen w-full absolute flex flex-wrap justify-center md:justify-end content-start pt-36 md:pt-20 px-20">
       <div>
         <div
-          className="poppins_bold text-white  text-center md:text-right "
+          className="poppins_bold text-white  text-center md:text-right"
           id="text"
         >
           <p className="text-7xl md:text-9xl"> Japan Hub</p>
