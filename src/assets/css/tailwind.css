@@ -1,0 +1,446 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html {
+    scroll-behavior: smooth;
+  }
+/* Start Fonts Definition */
+
+.screenFromNav{
+  height: 100vh - 36px;
+}
+
+@font-face{
+    src: url(../fonts/Arciform.otf);
+    font-family: arciform;
+}
+@font-face{
+    src: url(../fonts/PublicSans-Light.otf);
+    font-family: public_light;
+}
+@font-face{
+    src: url(../fonts/PublicSans-Thin.otf);
+    font-family: public_thin;
+}
+@font-face{
+    src: url(../fonts/PublicSans-Regular.otf);
+    font-family: public_regular;
+}
+@font-face{
+    src: url(../fonts/PublicSans-SemiBold.otf);
+    font-family: public_semibold;
+}
+@font-face{
+    src: url(../fonts/PublicSans-ExtraBold.otf);
+    font-family: public_extrabold;
+}
+
+/* Start Fonts Class Definition */
+.arciform_regular{
+    font-family: arciform;
+}
+.public_light{
+    font-family: public_light;
+}
+.public_thin{
+    font-family: public_thin;
+}
+.public_regular{
+    font-family: public_regular;
+}
+.public_semibold{
+    font-family: public_semibold;
+}
+.public_extrabold{
+    font-family: public_extrabold;
+}
+
+/* Start Fonts Definition */
+
+/* Alegreya */
+
+@font-face{
+    src: url(../fonts/AlegreyaSans-Black.ttf);
+    font-family: alegreya_black;
+  }
+  @font-face{
+    src: url(../fonts/AlegreyaSans-BlackItalic.ttf);
+    font-family:  alegreya_blackItalic;
+  }
+  @font-face{
+    src: url(../fonts/AlegreyaSans-Bold.ttf);
+    font-family:  alegreya_bold;
+  }
+  @font-face{
+    src: url(../fonts/AlegreyaSans-BoldItalic.ttf);
+    font-family:  alegreya_boldItalic;
+  }
+  @font-face{
+    src: url(../fonts/AlegreyaSans-ExtraBold.ttf);
+    font-family:  alegreya_extraBold;
+  }
+  @font-face{
+    src: url(../fonts/AlegreyaSans-ExtraBoldItalic.ttf);
+    font-family:  alegreya_extraBoldItalic;
+  }
+  @font-face{
+    src: url(../fonts/AlegreyaSans-Italic.ttf);
+    font-family:  alegreya_italic;
+  }
+  @font-face{
+    src: url(../fonts/AlegreyaSans-Light.ttf);
+    font-family: alegreya_light;
+  }
+  @font-face{
+    src: url(../fonts/AlegreyaSans-LightItalic.ttf);
+    font-family: alegreya_lightItalic;
+  }
+  @font-face{
+    src: url(../fonts/AlegreyaSans-Medium.ttf);
+    font-family: alegreya_medium;
+  }
+  @font-face{
+    src: url(../fonts/AlegreyaSans-MediumItalic.ttf);
+    font-family: alegreya_mediumItalic;
+  }
+  @font-face{
+    src: url(../fonts/AlegreyaSans-Regular.ttf);
+    font-family: alegreya_regular;
+  }
+  @font-face{
+    src: url(../fonts/AlegreyaSans-Thin.ttf);
+    font-family: alegreya_thin;
+  }
+  @font-face{
+    src: url(../fonts/AlegreyaSans-ThinItalic.ttf);
+    font-family: alegreya_thinItalic;
+  }
+  
+  /* Helvetica */
+  
+  @font-face{
+    src: url(../fonts/Helvetica-Bold.ttf);
+    font-family: helvetica_bold;
+  }
+  @font-face{
+    src: url(../fonts/Helvetica-BoldOblique.ttf);
+    font-family: helvetica_boldOblique;
+  }
+  @font-face{
+    src: url(../fonts/Helvetica-Oblique.ttf);
+    font-family: helvetica_oblique;
+  }
+  @font-face{
+    src: url(../fonts/Helvetica.ttf);
+    font-family: helvetica_sans;
+  }
+  
+  /* Poppins */
+  
+  @font-face{
+    src: url(../fonts/Poppins-Black.ttf);
+    font-family: poppins_black;
+  }
+  @font-face{
+    src: url(../fonts/Poppins-BlackItalic.ttf);
+    font-family: poppins_blackItalic;
+  }
+  @font-face{
+    src: url(../fonts/Poppins-Bold.ttf);
+    font-family: poppins_bold;
+  }
+  @font-face{
+    src: url(../fonts/Poppins-BoldItalic.ttf);
+    font-family: poppins_boldItalic;
+  }
+  @font-face{
+    src: url(../fonts/Poppins-ExtraBold.ttf);
+    font-family: poppins_extraBold;
+  }
+  @font-face{
+    src: url(../fonts/Poppins-ExtraBoldItalic.ttf);
+    font-family: poppins_extraBoldItalic;
+  }
+  @font-face{
+    src: url(../fonts/Poppins-ExtraLight.ttf);
+    font-family: poppins_extraLight;
+  }
+  @font-face{
+    src: url(../fonts/Poppins-ExtraLightItalic.ttf);
+    font-family: poppins_extraLightItalic;
+  }
+  @font-face{
+    src: url(../fonts/Poppins-Italic.ttf);
+    font-family: poppins_italic;
+  }
+  @font-face{
+    src: url(../fonts/Poppins-Light.ttf);
+    font-family: poppins_light;
+  }
+  @font-face{
+    src: url(../fonts/Poppins-LightItalic.ttf);
+    font-family: poppins_lightItalic;
+  }
+  @font-face{
+    src: url(../fonts/Poppins-Medium.ttf);
+    font-family: poppins_medium;
+  }
+  @font-face{
+    src: url(../fonts/Poppins-MediumItalic.ttf);
+    font-family: poppins_mediumItalic;
+  }
+  @font-face{
+    src: url(../fonts/Poppins-Regular.ttf);
+    font-family: poppins_regular;
+  }
+  @font-face{
+    src: url(../fonts/Poppins-SemiBold.ttf);
+    font-family: poppins_semiBold;
+  }
+  @font-face{
+    src: url(../fonts/Poppins-SemiBoldItalic.ttf);
+    font-family: poppins_semiBoldItalic;
+  }
+  @font-face{
+    src: url(../fonts/Poppins-Thin.ttf);
+    font-family: poppins_thin;
+  }
+  @font-face{
+    src: url(../fonts/Poppins-ThinItalic.ttf);
+    font-family: poppins_thinItalic;
+  }
+  
+  /* End Fonts Definition */
+  
+  /* Start Fonts Class Definition */
+  
+  /* Alegreya */
+  
+  .alegreya_black{
+    font-family: alegreya_black;
+  }
+  .alegreya_blackItalic{
+    font-family: alegreya_blackItalic;
+  }
+  .alegreya_bold{
+    font-family: alegreya_bold;
+  }
+  .alegreya_boldItalic{
+    font-family: alegreya_boldItalic;
+  }
+  .alegreya_extraBold{
+    font-family: alegreya_extraBold;
+  }
+  .alegreya_extraBoldItalic{
+    font-family: alegreya_extraBoldItalic;
+  }
+  .alegreya_italic{
+    font-family: aalegreya_italic;
+  }
+  .alegreya_light{
+    font-family: alegreya_light;
+  }
+  .alegreya_lightItalic{
+    font-family: alegreya_lightItalic;
+  }
+  .alegreya_medium{
+    font-family: alegreya_medium;
+  }
+  .alegreya_mediumItalic{
+    font-family: alegreya_mediumItalic;
+  }
+  .alegreya_regular{
+    font-family: alegreya_regular;
+  }
+  .alegreya_thin{
+    font-family: alegreya_thin;
+  }
+  .alegreya_thinItalic{
+    font-family: alegreya_thinItalic;
+  }
+  
+  /* Helvetica */
+  
+  .helvetica_bold{
+    font-family: helvetica_bold;
+  }
+  .helvetica_boldOblique{
+    font-family: helvetica_boldOblique;
+  }
+  .helvetica_oblique{
+    font-family: helvetica_oblique;
+  }
+  .helvetica_sans{
+    font-family: helvetica_sans;
+  }
+  
+  /* Poppins */
+  
+  .poppins_black{
+    font-family: poppins_black;
+  }
+  .poppins_blackItalic{
+    font-family: poppins_blackItalic;
+  }
+  .poppins_bold{
+    font-family: poppins_bold;
+  }
+  .poppins_boldItalic{
+    font-family: poppins_boldItalic;
+  }
+  .poppins_extraBold{
+    font-family: poppins_extraBold;
+  }
+  .poppins_extraBoldItalic{
+    font-family: poppins_extraBoldItalic;
+  }
+  .poppins_extraLight{
+    font-family: poppins_extraLight;
+  }
+  .poppins_extraLightItalic{
+    font-family: poppins_extraLightItalic;
+  }
+  .poppins_italic{
+    font-family: poppins_italic;
+  }
+  .poppins_light{
+    font-family: poppins_light;
+  }
+  .poppins_lightItalic{
+    font-family: poppins_lightItalic;
+  }
+  .poppins_medium{
+    font-family: poppins_medium;
+  }
+  .poppins_mediumItalic{
+    font-family: poppins_mediumItalic;
+  }
+  .poppins_regular{
+    font-family: poppins_regular;
+  }
+  .poppins_semiBold{
+    font-family: poppins_semiBold;
+  }
+  .poppins_semiBoldItalic{
+    font-family: poppins_semiBoldItalic;
+  }
+  .poppins_thin{
+    font-family: poppins_thin;
+  }
+  .poppins_thinItalic{
+    font-family: poppins_thinItalic;
+  }
+  
+  /* End Fonts Class Definition */
+  
+  /* Start Color Shades */
+  
+  .primary-color-A-400{
+    background-color: #235196;
+  }
+  .primary-color-A-300{
+    background-color: #4DD0E1;
+  }
+  .primary-color-A-200{
+    background-color: #D1DDE8;
+  }
+  .primary-color-A-100{
+    background-color: #E2FDFF;
+  }
+  
+  .primary-color-B-400{
+    background-color: #242626;
+  }
+  .primary-color-B-300{
+    background-color: #3F5151;
+  }
+  .primary-color-B-200{
+    background-color: #40605F;
+  }
+  .primary-color-B-100{
+    background-color: #457775;
+  }
+ 
+  /* End Color Shades */
+  
+  /* Start Text Color*/
+  .primary-text-color-A-400{
+    color: #235196;
+  }
+  .primary-text-color-A-300{
+    color: #4DD0E1;
+  }
+  .primary-text-color-A-200{
+    color: #D1DDE8;
+  }
+  .primary-text-color-A-100{
+    color: #E2FDFF;
+  }
+  
+  .primary-text-color-B-400{
+    color: #242626;
+  }
+  .primary-text-color-B-300{
+    color: #3F5151;
+  }
+  .primary-text-color-B-200{
+    color: #40605F;
+  }
+  .primary-text-color-B-100{
+    color: #457775;
+  }
+  
+  
+  /* End Text Color */
+
+  @media (min-width: 1024px) {
+    .top-navbar {
+      display: inline-flex !important;
+    }
+  }
+
+  html{
+    scroll-behavior: smooth;
+  }
+
+  .animated {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+  }
+
+  .animated.faster {
+    -webkit-animation-duration: 500ms;
+    animation-duration: 500ms;
+  }
+
+  .fadeIn {
+    -webkit-animation-name: fadeIn;
+    animation-name: fadeIn;
+  }
+
+  .fadeOut {
+    -webkit-animation-name: fadeOut;
+    animation-name: fadeOut;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+
+    to {
+      opacity: 1;
+    }
+  }
+
+  @keyframes fadeOut {
+    from {
+      opacity: 1;
+    }
+
+    to {
+      opacity: 0;
+    }
+  }
