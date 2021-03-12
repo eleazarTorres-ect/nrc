@@ -1,16 +1,22 @@
 import LeftContainer from "./LeftContainer";
+import RamenComponent from "./RamenComponent";
 import RightContainer from "./RightContainer";
 
 const SubscriptionContainer = () => {
+  // <RamenComponent />
   return (
     <div
-      className="h-auto  w-full flex flex-col sm:flex-row justify-between
-                py-10 bg-pharma-A-400
-                px-2 sm:px-24 md:px-24 lg:px-48"
+      className="h-auto  w-full flex flex-col sm:flex-row justify-center
+                pt-0 pb-20 bg-blue-200
+                px-2 sm:px-24 md:px-24 lg:px-36"
       id="subscriptionContainer"
     >
-      <LeftContainer />
-      <RightContainer />
+      <div className="flex">
+        <div className="shadow-2xl border bg-white flex flex-wrap justify-between px-10 -mt-20 rounded-lg w-full">
+          <LeftContainer />
+          <RightContainer />
+        </div>
+      </div>
     </div>
   );
 };

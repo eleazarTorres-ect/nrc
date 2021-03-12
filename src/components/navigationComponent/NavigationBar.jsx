@@ -6,7 +6,7 @@ const NavigationBar = () => {
   const navPadding =
     "px-2 py-2  sm:py-4 sm:px-24 md:px-24 lg:px-24 border-bottom-2  ";
   const navDisplay =
-    "sticky fixed z-50 flex justify-center md:justify-end w-full bg-japan-A-400 ";
+    "sticky top-0 fixed z-50 flex justify-center md:justify-end w-full bg-japan-A-400 bg-transparent";
 
   return (
     <nav className={navDisplay + navPadding}>
