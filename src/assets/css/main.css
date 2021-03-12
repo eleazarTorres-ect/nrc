@@ -1954,7 +1954,7 @@ video {
 
 .divide-japan-A-400 > :not([hidden]) ~ :not([hidden]) {
   --tw-divide-opacity: 1;
-  border-color: rgba(34, 40, 90, var(--tw-divide-opacity));
+  border-color: rgba(4, 17, 73, var(--tw-divide-opacity));
 }
 
 .divide-solid > :not([hidden]) ~ :not([hidden]) {
@@ -2560,7 +2560,7 @@ video {
 
 .bg-japan-A-400 {
   --tw-bg-opacity: 1;
-  background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+  background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
 }
 
 .group:hover .group-hover\:bg-transparent {
@@ -2983,7 +2983,7 @@ video {
 
 .group:hover .group-hover\:bg-japan-A-400 {
   --tw-bg-opacity: 1;
-  background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+  background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
 }
 
 .focus-within\:bg-transparent:focus-within {
@@ -3406,7 +3406,7 @@ video {
 
 .focus-within\:bg-japan-A-400:focus-within {
   --tw-bg-opacity: 1;
-  background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+  background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
 }
 
 .hover\:bg-transparent:hover {
@@ -3829,7 +3829,7 @@ video {
 
 .hover\:bg-japan-A-400:hover {
   --tw-bg-opacity: 1;
-  background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+  background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
 }
 
 .focus\:bg-transparent:focus {
@@ -4252,7 +4252,7 @@ video {
 
 .focus\:bg-japan-A-400:focus {
   --tw-bg-opacity: 1;
-  background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+  background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
 }
 
 .bg-none {
@@ -4712,8 +4712,8 @@ video {
 }
 
 .from-japan-A-400 {
-  --tw-gradient-from: #22285A;
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(34, 40, 90, 0));
+  --tw-gradient-from: #041149;
+  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(4, 17, 73, 0));
 }
 
 .via-transparent {
@@ -5053,7 +5053,7 @@ video {
 }
 
 .via-japan-A-400 {
-  --tw-gradient-stops: var(--tw-gradient-from), #22285A, var(--tw-gradient-to, rgba(34, 40, 90, 0));
+  --tw-gradient-stops: var(--tw-gradient-from), #041149, var(--tw-gradient-to, rgba(4, 17, 73, 0));
 }
 
 .to-transparent {
@@ -5393,7 +5393,7 @@ video {
 }
 
 .to-japan-A-400 {
-  --tw-gradient-to: #22285A;
+  --tw-gradient-to: #041149;
 }
 
 .hover\:from-transparent:hover {
@@ -5817,8 +5817,8 @@ video {
 }
 
 .hover\:from-japan-A-400:hover {
-  --tw-gradient-from: #22285A;
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(34, 40, 90, 0));
+  --tw-gradient-from: #041149;
+  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(4, 17, 73, 0));
 }
 
 .hover\:via-transparent:hover {
@@ -6158,7 +6158,7 @@ video {
 }
 
 .hover\:via-japan-A-400:hover {
-  --tw-gradient-stops: var(--tw-gradient-from), #22285A, var(--tw-gradient-to, rgba(34, 40, 90, 0));
+  --tw-gradient-stops: var(--tw-gradient-from), #041149, var(--tw-gradient-to, rgba(4, 17, 73, 0));
 }
 
 .hover\:to-transparent:hover {
@@ -6498,7 +6498,7 @@ video {
 }
 
 .hover\:to-japan-A-400:hover {
-  --tw-gradient-to: #22285A;
+  --tw-gradient-to: #041149;
 }
 
 .focus\:from-transparent:focus {
@@ -6922,8 +6922,8 @@ video {
 }
 
 .focus\:from-japan-A-400:focus {
-  --tw-gradient-from: #22285A;
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(34, 40, 90, 0));
+  --tw-gradient-from: #041149;
+  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(4, 17, 73, 0));
 }
 
 .focus\:via-transparent:focus {
@@ -7263,7 +7263,7 @@ video {
 }
 
 .focus\:via-japan-A-400:focus {
-  --tw-gradient-stops: var(--tw-gradient-from), #22285A, var(--tw-gradient-to, rgba(34, 40, 90, 0));
+  --tw-gradient-stops: var(--tw-gradient-from), #041149, var(--tw-gradient-to, rgba(4, 17, 73, 0));
 }
 
 .focus\:to-transparent:focus {
@@ -7603,7 +7603,7 @@ video {
 }
 
 .focus\:to-japan-A-400:focus {
-  --tw-gradient-to: #22285A;
+  --tw-gradient-to: #041149;
 }
 
 .bg-opacity-0 {
@@ -8406,7 +8406,7 @@ video {
 
 .border-japan-A-400 {
   --tw-border-opacity: 1;
-  border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+  border-color: rgba(4, 17, 73, var(--tw-border-opacity));
 }
 
 .group:hover .group-hover\:border-transparent {
@@ -8829,7 +8829,7 @@ video {
 
 .group:hover .group-hover\:border-japan-A-400 {
   --tw-border-opacity: 1;
-  border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+  border-color: rgba(4, 17, 73, var(--tw-border-opacity));
 }
 
 .focus-within\:border-transparent:focus-within {
@@ -9252,7 +9252,7 @@ video {
 
 .focus-within\:border-japan-A-400:focus-within {
   --tw-border-opacity: 1;
-  border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+  border-color: rgba(4, 17, 73, var(--tw-border-opacity));
 }
 
 .hover\:border-transparent:hover {
@@ -9675,7 +9675,7 @@ video {
 
 .hover\:border-japan-A-400:hover {
   --tw-border-opacity: 1;
-  border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+  border-color: rgba(4, 17, 73, var(--tw-border-opacity));
 }
 
 .focus\:border-transparent:focus {
@@ -10098,7 +10098,7 @@ video {
 
 .focus\:border-japan-A-400:focus {
   --tw-border-opacity: 1;
-  border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+  border-color: rgba(4, 17, 73, var(--tw-border-opacity));
 }
 
 .border-opacity-0 {
@@ -16091,7 +16091,7 @@ video {
 
 .placeholder-japan-A-400::placeholder {
   --tw-placeholder-opacity: 1;
-  color: rgba(34, 40, 90, var(--tw-placeholder-opacity));
+  color: rgba(4, 17, 73, var(--tw-placeholder-opacity));
 }
 
 .focus\:placeholder-transparent:focus::placeholder {
@@ -16514,7 +16514,7 @@ video {
 
 .focus\:placeholder-japan-A-400:focus::placeholder {
   --tw-placeholder-opacity: 1;
-  color: rgba(34, 40, 90, var(--tw-placeholder-opacity));
+  color: rgba(4, 17, 73, var(--tw-placeholder-opacity));
 }
 
 .placeholder-opacity-0::placeholder {
@@ -20156,7 +20156,7 @@ video {
 }
 
 .ring-offset-japan-A-400 {
-  --tw-ring-offset-color: #22285A;
+  --tw-ring-offset-color: #041149;
 }
 
 .focus-within\:ring-offset-transparent:focus-within {
@@ -20496,7 +20496,7 @@ video {
 }
 
 .focus-within\:ring-offset-japan-A-400:focus-within {
-  --tw-ring-offset-color: #22285A;
+  --tw-ring-offset-color: #041149;
 }
 
 .focus\:ring-offset-transparent:focus {
@@ -20836,7 +20836,7 @@ video {
 }
 
 .focus\:ring-offset-japan-A-400:focus {
-  --tw-ring-offset-color: #22285A;
+  --tw-ring-offset-color: #041149;
 }
 
 .ring-offset-0 {
@@ -21319,7 +21319,7 @@ video {
 
 .ring-japan-A-400 {
   --tw-ring-opacity: 1;
-  --tw-ring-color: rgba(34, 40, 90, var(--tw-ring-opacity));
+  --tw-ring-color: rgba(4, 17, 73, var(--tw-ring-opacity));
 }
 
 .focus-within\:ring-transparent:focus-within {
@@ -21742,7 +21742,7 @@ video {
 
 .focus-within\:ring-japan-A-400:focus-within {
   --tw-ring-opacity: 1;
-  --tw-ring-color: rgba(34, 40, 90, var(--tw-ring-opacity));
+  --tw-ring-color: rgba(4, 17, 73, var(--tw-ring-opacity));
 }
 
 .focus\:ring-transparent:focus {
@@ -22165,7 +22165,7 @@ video {
 
 .focus\:ring-japan-A-400:focus {
   --tw-ring-opacity: 1;
-  --tw-ring-color: rgba(34, 40, 90, var(--tw-ring-opacity));
+  --tw-ring-color: rgba(4, 17, 73, var(--tw-ring-opacity));
 }
 
 .ring-opacity-0 {
@@ -22812,7 +22812,7 @@ video {
 
 .text-japan-A-400 {
   --tw-text-opacity: 1;
-  color: rgba(34, 40, 90, var(--tw-text-opacity));
+  color: rgba(4, 17, 73, var(--tw-text-opacity));
 }
 
 .group:hover .group-hover\:text-transparent {
@@ -23235,7 +23235,7 @@ video {
 
 .group:hover .group-hover\:text-japan-A-400 {
   --tw-text-opacity: 1;
-  color: rgba(34, 40, 90, var(--tw-text-opacity));
+  color: rgba(4, 17, 73, var(--tw-text-opacity));
 }
 
 .focus-within\:text-transparent:focus-within {
@@ -23658,7 +23658,7 @@ video {
 
 .focus-within\:text-japan-A-400:focus-within {
   --tw-text-opacity: 1;
-  color: rgba(34, 40, 90, var(--tw-text-opacity));
+  color: rgba(4, 17, 73, var(--tw-text-opacity));
 }
 
 .hover\:text-transparent:hover {
@@ -24081,7 +24081,7 @@ video {
 
 .hover\:text-japan-A-400:hover {
   --tw-text-opacity: 1;
-  color: rgba(34, 40, 90, var(--tw-text-opacity));
+  color: rgba(4, 17, 73, var(--tw-text-opacity));
 }
 
 .focus\:text-transparent:focus {
@@ -24504,7 +24504,7 @@ video {
 
 .focus\:text-japan-A-400:focus {
   --tw-text-opacity: 1;
-  color: rgba(34, 40, 90, var(--tw-text-opacity));
+  color: rgba(4, 17, 73, var(--tw-text-opacity));
 }
 
 .text-opacity-0 {
@@ -31330,7 +31330,7 @@ html{
 
   .sm\:divide-japan-A-400 > :not([hidden]) ~ :not([hidden]) {
     --tw-divide-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-divide-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-divide-opacity));
   }
 
   .sm\:divide-solid > :not([hidden]) ~ :not([hidden]) {
@@ -31936,7 +31936,7 @@ html{
 
   .sm\:bg-japan-A-400 {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .group:hover .sm\:group-hover\:bg-transparent {
@@ -32359,7 +32359,7 @@ html{
 
   .group:hover .sm\:group-hover\:bg-japan-A-400 {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .sm\:focus-within\:bg-transparent:focus-within {
@@ -32782,7 +32782,7 @@ html{
 
   .sm\:focus-within\:bg-japan-A-400:focus-within {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .sm\:hover\:bg-transparent:hover {
@@ -33205,7 +33205,7 @@ html{
 
   .sm\:hover\:bg-japan-A-400:hover {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .sm\:focus\:bg-transparent:focus {
@@ -33628,7 +33628,7 @@ html{
 
   .sm\:focus\:bg-japan-A-400:focus {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .sm\:bg-none {
@@ -34088,8 +34088,8 @@ html{
   }
 
   .sm\:from-japan-A-400 {
-    --tw-gradient-from: #22285A;
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-from: #041149;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .sm\:via-transparent {
@@ -34429,7 +34429,7 @@ html{
   }
 
   .sm\:via-japan-A-400 {
-    --tw-gradient-stops: var(--tw-gradient-from), #22285A, var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), #041149, var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .sm\:to-transparent {
@@ -34769,7 +34769,7 @@ html{
   }
 
   .sm\:to-japan-A-400 {
-    --tw-gradient-to: #22285A;
+    --tw-gradient-to: #041149;
   }
 
   .sm\:hover\:from-transparent:hover {
@@ -35193,8 +35193,8 @@ html{
   }
 
   .sm\:hover\:from-japan-A-400:hover {
-    --tw-gradient-from: #22285A;
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-from: #041149;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .sm\:hover\:via-transparent:hover {
@@ -35534,7 +35534,7 @@ html{
   }
 
   .sm\:hover\:via-japan-A-400:hover {
-    --tw-gradient-stops: var(--tw-gradient-from), #22285A, var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), #041149, var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .sm\:hover\:to-transparent:hover {
@@ -35874,7 +35874,7 @@ html{
   }
 
   .sm\:hover\:to-japan-A-400:hover {
-    --tw-gradient-to: #22285A;
+    --tw-gradient-to: #041149;
   }
 
   .sm\:focus\:from-transparent:focus {
@@ -36298,8 +36298,8 @@ html{
   }
 
   .sm\:focus\:from-japan-A-400:focus {
-    --tw-gradient-from: #22285A;
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-from: #041149;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .sm\:focus\:via-transparent:focus {
@@ -36639,7 +36639,7 @@ html{
   }
 
   .sm\:focus\:via-japan-A-400:focus {
-    --tw-gradient-stops: var(--tw-gradient-from), #22285A, var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), #041149, var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .sm\:focus\:to-transparent:focus {
@@ -36979,7 +36979,7 @@ html{
   }
 
   .sm\:focus\:to-japan-A-400:focus {
-    --tw-gradient-to: #22285A;
+    --tw-gradient-to: #041149;
   }
 
   .sm\:bg-opacity-0 {
@@ -37782,7 +37782,7 @@ html{
 
   .sm\:border-japan-A-400 {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .group:hover .sm\:group-hover\:border-transparent {
@@ -38205,7 +38205,7 @@ html{
 
   .group:hover .sm\:group-hover\:border-japan-A-400 {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .sm\:focus-within\:border-transparent:focus-within {
@@ -38628,7 +38628,7 @@ html{
 
   .sm\:focus-within\:border-japan-A-400:focus-within {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .sm\:hover\:border-transparent:hover {
@@ -39051,7 +39051,7 @@ html{
 
   .sm\:hover\:border-japan-A-400:hover {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .sm\:focus\:border-transparent:focus {
@@ -39474,7 +39474,7 @@ html{
 
   .sm\:focus\:border-japan-A-400:focus {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .sm\:border-opacity-0 {
@@ -45467,7 +45467,7 @@ html{
 
   .sm\:placeholder-japan-A-400::placeholder {
     --tw-placeholder-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-placeholder-opacity));
+    color: rgba(4, 17, 73, var(--tw-placeholder-opacity));
   }
 
   .sm\:focus\:placeholder-transparent:focus::placeholder {
@@ -45890,7 +45890,7 @@ html{
 
   .sm\:focus\:placeholder-japan-A-400:focus::placeholder {
     --tw-placeholder-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-placeholder-opacity));
+    color: rgba(4, 17, 73, var(--tw-placeholder-opacity));
   }
 
   .sm\:placeholder-opacity-0::placeholder {
@@ -49519,7 +49519,7 @@ html{
   }
 
   .sm\:ring-offset-japan-A-400 {
-    --tw-ring-offset-color: #22285A;
+    --tw-ring-offset-color: #041149;
   }
 
   .sm\:focus-within\:ring-offset-transparent:focus-within {
@@ -49859,7 +49859,7 @@ html{
   }
 
   .sm\:focus-within\:ring-offset-japan-A-400:focus-within {
-    --tw-ring-offset-color: #22285A;
+    --tw-ring-offset-color: #041149;
   }
 
   .sm\:focus\:ring-offset-transparent:focus {
@@ -50199,7 +50199,7 @@ html{
   }
 
   .sm\:focus\:ring-offset-japan-A-400:focus {
-    --tw-ring-offset-color: #22285A;
+    --tw-ring-offset-color: #041149;
   }
 
   .sm\:ring-offset-0 {
@@ -50682,7 +50682,7 @@ html{
 
   .sm\:ring-japan-A-400 {
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgba(34, 40, 90, var(--tw-ring-opacity));
+    --tw-ring-color: rgba(4, 17, 73, var(--tw-ring-opacity));
   }
 
   .sm\:focus-within\:ring-transparent:focus-within {
@@ -51105,7 +51105,7 @@ html{
 
   .sm\:focus-within\:ring-japan-A-400:focus-within {
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgba(34, 40, 90, var(--tw-ring-opacity));
+    --tw-ring-color: rgba(4, 17, 73, var(--tw-ring-opacity));
   }
 
   .sm\:focus\:ring-transparent:focus {
@@ -51528,7 +51528,7 @@ html{
 
   .sm\:focus\:ring-japan-A-400:focus {
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgba(34, 40, 90, var(--tw-ring-opacity));
+    --tw-ring-color: rgba(4, 17, 73, var(--tw-ring-opacity));
   }
 
   .sm\:ring-opacity-0 {
@@ -52175,7 +52175,7 @@ html{
 
   .sm\:text-japan-A-400 {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .group:hover .sm\:group-hover\:text-transparent {
@@ -52598,7 +52598,7 @@ html{
 
   .group:hover .sm\:group-hover\:text-japan-A-400 {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .sm\:focus-within\:text-transparent:focus-within {
@@ -53021,7 +53021,7 @@ html{
 
   .sm\:focus-within\:text-japan-A-400:focus-within {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .sm\:hover\:text-transparent:hover {
@@ -53444,7 +53444,7 @@ html{
 
   .sm\:hover\:text-japan-A-400:hover {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .sm\:focus\:text-transparent:focus {
@@ -53867,7 +53867,7 @@ html{
 
   .sm\:focus\:text-japan-A-400:focus {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .sm\:text-opacity-0 {
@@ -60080,7 +60080,7 @@ html{
 
   .md\:divide-japan-A-400 > :not([hidden]) ~ :not([hidden]) {
     --tw-divide-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-divide-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-divide-opacity));
   }
 
   .md\:divide-solid > :not([hidden]) ~ :not([hidden]) {
@@ -60686,7 +60686,7 @@ html{
 
   .md\:bg-japan-A-400 {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .group:hover .md\:group-hover\:bg-transparent {
@@ -61109,7 +61109,7 @@ html{
 
   .group:hover .md\:group-hover\:bg-japan-A-400 {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .md\:focus-within\:bg-transparent:focus-within {
@@ -61532,7 +61532,7 @@ html{
 
   .md\:focus-within\:bg-japan-A-400:focus-within {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .md\:hover\:bg-transparent:hover {
@@ -61955,7 +61955,7 @@ html{
 
   .md\:hover\:bg-japan-A-400:hover {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .md\:focus\:bg-transparent:focus {
@@ -62378,7 +62378,7 @@ html{
 
   .md\:focus\:bg-japan-A-400:focus {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .md\:bg-none {
@@ -62838,8 +62838,8 @@ html{
   }
 
   .md\:from-japan-A-400 {
-    --tw-gradient-from: #22285A;
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-from: #041149;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .md\:via-transparent {
@@ -63179,7 +63179,7 @@ html{
   }
 
   .md\:via-japan-A-400 {
-    --tw-gradient-stops: var(--tw-gradient-from), #22285A, var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), #041149, var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .md\:to-transparent {
@@ -63519,7 +63519,7 @@ html{
   }
 
   .md\:to-japan-A-400 {
-    --tw-gradient-to: #22285A;
+    --tw-gradient-to: #041149;
   }
 
   .md\:hover\:from-transparent:hover {
@@ -63943,8 +63943,8 @@ html{
   }
 
   .md\:hover\:from-japan-A-400:hover {
-    --tw-gradient-from: #22285A;
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-from: #041149;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .md\:hover\:via-transparent:hover {
@@ -64284,7 +64284,7 @@ html{
   }
 
   .md\:hover\:via-japan-A-400:hover {
-    --tw-gradient-stops: var(--tw-gradient-from), #22285A, var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), #041149, var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .md\:hover\:to-transparent:hover {
@@ -64624,7 +64624,7 @@ html{
   }
 
   .md\:hover\:to-japan-A-400:hover {
-    --tw-gradient-to: #22285A;
+    --tw-gradient-to: #041149;
   }
 
   .md\:focus\:from-transparent:focus {
@@ -65048,8 +65048,8 @@ html{
   }
 
   .md\:focus\:from-japan-A-400:focus {
-    --tw-gradient-from: #22285A;
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-from: #041149;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .md\:focus\:via-transparent:focus {
@@ -65389,7 +65389,7 @@ html{
   }
 
   .md\:focus\:via-japan-A-400:focus {
-    --tw-gradient-stops: var(--tw-gradient-from), #22285A, var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), #041149, var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .md\:focus\:to-transparent:focus {
@@ -65729,7 +65729,7 @@ html{
   }
 
   .md\:focus\:to-japan-A-400:focus {
-    --tw-gradient-to: #22285A;
+    --tw-gradient-to: #041149;
   }
 
   .md\:bg-opacity-0 {
@@ -66532,7 +66532,7 @@ html{
 
   .md\:border-japan-A-400 {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .group:hover .md\:group-hover\:border-transparent {
@@ -66955,7 +66955,7 @@ html{
 
   .group:hover .md\:group-hover\:border-japan-A-400 {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .md\:focus-within\:border-transparent:focus-within {
@@ -67378,7 +67378,7 @@ html{
 
   .md\:focus-within\:border-japan-A-400:focus-within {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .md\:hover\:border-transparent:hover {
@@ -67801,7 +67801,7 @@ html{
 
   .md\:hover\:border-japan-A-400:hover {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .md\:focus\:border-transparent:focus {
@@ -68224,7 +68224,7 @@ html{
 
   .md\:focus\:border-japan-A-400:focus {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .md\:border-opacity-0 {
@@ -74217,7 +74217,7 @@ html{
 
   .md\:placeholder-japan-A-400::placeholder {
     --tw-placeholder-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-placeholder-opacity));
+    color: rgba(4, 17, 73, var(--tw-placeholder-opacity));
   }
 
   .md\:focus\:placeholder-transparent:focus::placeholder {
@@ -74640,7 +74640,7 @@ html{
 
   .md\:focus\:placeholder-japan-A-400:focus::placeholder {
     --tw-placeholder-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-placeholder-opacity));
+    color: rgba(4, 17, 73, var(--tw-placeholder-opacity));
   }
 
   .md\:placeholder-opacity-0::placeholder {
@@ -78269,7 +78269,7 @@ html{
   }
 
   .md\:ring-offset-japan-A-400 {
-    --tw-ring-offset-color: #22285A;
+    --tw-ring-offset-color: #041149;
   }
 
   .md\:focus-within\:ring-offset-transparent:focus-within {
@@ -78609,7 +78609,7 @@ html{
   }
 
   .md\:focus-within\:ring-offset-japan-A-400:focus-within {
-    --tw-ring-offset-color: #22285A;
+    --tw-ring-offset-color: #041149;
   }
 
   .md\:focus\:ring-offset-transparent:focus {
@@ -78949,7 +78949,7 @@ html{
   }
 
   .md\:focus\:ring-offset-japan-A-400:focus {
-    --tw-ring-offset-color: #22285A;
+    --tw-ring-offset-color: #041149;
   }
 
   .md\:ring-offset-0 {
@@ -79432,7 +79432,7 @@ html{
 
   .md\:ring-japan-A-400 {
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgba(34, 40, 90, var(--tw-ring-opacity));
+    --tw-ring-color: rgba(4, 17, 73, var(--tw-ring-opacity));
   }
 
   .md\:focus-within\:ring-transparent:focus-within {
@@ -79855,7 +79855,7 @@ html{
 
   .md\:focus-within\:ring-japan-A-400:focus-within {
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgba(34, 40, 90, var(--tw-ring-opacity));
+    --tw-ring-color: rgba(4, 17, 73, var(--tw-ring-opacity));
   }
 
   .md\:focus\:ring-transparent:focus {
@@ -80278,7 +80278,7 @@ html{
 
   .md\:focus\:ring-japan-A-400:focus {
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgba(34, 40, 90, var(--tw-ring-opacity));
+    --tw-ring-color: rgba(4, 17, 73, var(--tw-ring-opacity));
   }
 
   .md\:ring-opacity-0 {
@@ -80925,7 +80925,7 @@ html{
 
   .md\:text-japan-A-400 {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .group:hover .md\:group-hover\:text-transparent {
@@ -81348,7 +81348,7 @@ html{
 
   .group:hover .md\:group-hover\:text-japan-A-400 {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .md\:focus-within\:text-transparent:focus-within {
@@ -81771,7 +81771,7 @@ html{
 
   .md\:focus-within\:text-japan-A-400:focus-within {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .md\:hover\:text-transparent:hover {
@@ -82194,7 +82194,7 @@ html{
 
   .md\:hover\:text-japan-A-400:hover {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .md\:focus\:text-transparent:focus {
@@ -82617,7 +82617,7 @@ html{
 
   .md\:focus\:text-japan-A-400:focus {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .md\:text-opacity-0 {
@@ -88830,7 +88830,7 @@ html{
 
   .lg\:divide-japan-A-400 > :not([hidden]) ~ :not([hidden]) {
     --tw-divide-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-divide-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-divide-opacity));
   }
 
   .lg\:divide-solid > :not([hidden]) ~ :not([hidden]) {
@@ -89436,7 +89436,7 @@ html{
 
   .lg\:bg-japan-A-400 {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .group:hover .lg\:group-hover\:bg-transparent {
@@ -89859,7 +89859,7 @@ html{
 
   .group:hover .lg\:group-hover\:bg-japan-A-400 {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .lg\:focus-within\:bg-transparent:focus-within {
@@ -90282,7 +90282,7 @@ html{
 
   .lg\:focus-within\:bg-japan-A-400:focus-within {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .lg\:hover\:bg-transparent:hover {
@@ -90705,7 +90705,7 @@ html{
 
   .lg\:hover\:bg-japan-A-400:hover {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .lg\:focus\:bg-transparent:focus {
@@ -91128,7 +91128,7 @@ html{
 
   .lg\:focus\:bg-japan-A-400:focus {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .lg\:bg-none {
@@ -91588,8 +91588,8 @@ html{
   }
 
   .lg\:from-japan-A-400 {
-    --tw-gradient-from: #22285A;
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-from: #041149;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .lg\:via-transparent {
@@ -91929,7 +91929,7 @@ html{
   }
 
   .lg\:via-japan-A-400 {
-    --tw-gradient-stops: var(--tw-gradient-from), #22285A, var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), #041149, var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .lg\:to-transparent {
@@ -92269,7 +92269,7 @@ html{
   }
 
   .lg\:to-japan-A-400 {
-    --tw-gradient-to: #22285A;
+    --tw-gradient-to: #041149;
   }
 
   .lg\:hover\:from-transparent:hover {
@@ -92693,8 +92693,8 @@ html{
   }
 
   .lg\:hover\:from-japan-A-400:hover {
-    --tw-gradient-from: #22285A;
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-from: #041149;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .lg\:hover\:via-transparent:hover {
@@ -93034,7 +93034,7 @@ html{
   }
 
   .lg\:hover\:via-japan-A-400:hover {
-    --tw-gradient-stops: var(--tw-gradient-from), #22285A, var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), #041149, var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .lg\:hover\:to-transparent:hover {
@@ -93374,7 +93374,7 @@ html{
   }
 
   .lg\:hover\:to-japan-A-400:hover {
-    --tw-gradient-to: #22285A;
+    --tw-gradient-to: #041149;
   }
 
   .lg\:focus\:from-transparent:focus {
@@ -93798,8 +93798,8 @@ html{
   }
 
   .lg\:focus\:from-japan-A-400:focus {
-    --tw-gradient-from: #22285A;
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-from: #041149;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .lg\:focus\:via-transparent:focus {
@@ -94139,7 +94139,7 @@ html{
   }
 
   .lg\:focus\:via-japan-A-400:focus {
-    --tw-gradient-stops: var(--tw-gradient-from), #22285A, var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), #041149, var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .lg\:focus\:to-transparent:focus {
@@ -94479,7 +94479,7 @@ html{
   }
 
   .lg\:focus\:to-japan-A-400:focus {
-    --tw-gradient-to: #22285A;
+    --tw-gradient-to: #041149;
   }
 
   .lg\:bg-opacity-0 {
@@ -95282,7 +95282,7 @@ html{
 
   .lg\:border-japan-A-400 {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .group:hover .lg\:group-hover\:border-transparent {
@@ -95705,7 +95705,7 @@ html{
 
   .group:hover .lg\:group-hover\:border-japan-A-400 {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .lg\:focus-within\:border-transparent:focus-within {
@@ -96128,7 +96128,7 @@ html{
 
   .lg\:focus-within\:border-japan-A-400:focus-within {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .lg\:hover\:border-transparent:hover {
@@ -96551,7 +96551,7 @@ html{
 
   .lg\:hover\:border-japan-A-400:hover {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .lg\:focus\:border-transparent:focus {
@@ -96974,7 +96974,7 @@ html{
 
   .lg\:focus\:border-japan-A-400:focus {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .lg\:border-opacity-0 {
@@ -102967,7 +102967,7 @@ html{
 
   .lg\:placeholder-japan-A-400::placeholder {
     --tw-placeholder-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-placeholder-opacity));
+    color: rgba(4, 17, 73, var(--tw-placeholder-opacity));
   }
 
   .lg\:focus\:placeholder-transparent:focus::placeholder {
@@ -103390,7 +103390,7 @@ html{
 
   .lg\:focus\:placeholder-japan-A-400:focus::placeholder {
     --tw-placeholder-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-placeholder-opacity));
+    color: rgba(4, 17, 73, var(--tw-placeholder-opacity));
   }
 
   .lg\:placeholder-opacity-0::placeholder {
@@ -107019,7 +107019,7 @@ html{
   }
 
   .lg\:ring-offset-japan-A-400 {
-    --tw-ring-offset-color: #22285A;
+    --tw-ring-offset-color: #041149;
   }
 
   .lg\:focus-within\:ring-offset-transparent:focus-within {
@@ -107359,7 +107359,7 @@ html{
   }
 
   .lg\:focus-within\:ring-offset-japan-A-400:focus-within {
-    --tw-ring-offset-color: #22285A;
+    --tw-ring-offset-color: #041149;
   }
 
   .lg\:focus\:ring-offset-transparent:focus {
@@ -107699,7 +107699,7 @@ html{
   }
 
   .lg\:focus\:ring-offset-japan-A-400:focus {
-    --tw-ring-offset-color: #22285A;
+    --tw-ring-offset-color: #041149;
   }
 
   .lg\:ring-offset-0 {
@@ -108182,7 +108182,7 @@ html{
 
   .lg\:ring-japan-A-400 {
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgba(34, 40, 90, var(--tw-ring-opacity));
+    --tw-ring-color: rgba(4, 17, 73, var(--tw-ring-opacity));
   }
 
   .lg\:focus-within\:ring-transparent:focus-within {
@@ -108605,7 +108605,7 @@ html{
 
   .lg\:focus-within\:ring-japan-A-400:focus-within {
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgba(34, 40, 90, var(--tw-ring-opacity));
+    --tw-ring-color: rgba(4, 17, 73, var(--tw-ring-opacity));
   }
 
   .lg\:focus\:ring-transparent:focus {
@@ -109028,7 +109028,7 @@ html{
 
   .lg\:focus\:ring-japan-A-400:focus {
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgba(34, 40, 90, var(--tw-ring-opacity));
+    --tw-ring-color: rgba(4, 17, 73, var(--tw-ring-opacity));
   }
 
   .lg\:ring-opacity-0 {
@@ -109675,7 +109675,7 @@ html{
 
   .lg\:text-japan-A-400 {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .group:hover .lg\:group-hover\:text-transparent {
@@ -110098,7 +110098,7 @@ html{
 
   .group:hover .lg\:group-hover\:text-japan-A-400 {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .lg\:focus-within\:text-transparent:focus-within {
@@ -110521,7 +110521,7 @@ html{
 
   .lg\:focus-within\:text-japan-A-400:focus-within {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .lg\:hover\:text-transparent:hover {
@@ -110944,7 +110944,7 @@ html{
 
   .lg\:hover\:text-japan-A-400:hover {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .lg\:focus\:text-transparent:focus {
@@ -111367,7 +111367,7 @@ html{
 
   .lg\:focus\:text-japan-A-400:focus {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .lg\:text-opacity-0 {
@@ -117580,7 +117580,7 @@ html{
 
   .xl\:divide-japan-A-400 > :not([hidden]) ~ :not([hidden]) {
     --tw-divide-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-divide-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-divide-opacity));
   }
 
   .xl\:divide-solid > :not([hidden]) ~ :not([hidden]) {
@@ -118186,7 +118186,7 @@ html{
 
   .xl\:bg-japan-A-400 {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .group:hover .xl\:group-hover\:bg-transparent {
@@ -118609,7 +118609,7 @@ html{
 
   .group:hover .xl\:group-hover\:bg-japan-A-400 {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .xl\:focus-within\:bg-transparent:focus-within {
@@ -119032,7 +119032,7 @@ html{
 
   .xl\:focus-within\:bg-japan-A-400:focus-within {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .xl\:hover\:bg-transparent:hover {
@@ -119455,7 +119455,7 @@ html{
 
   .xl\:hover\:bg-japan-A-400:hover {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .xl\:focus\:bg-transparent:focus {
@@ -119878,7 +119878,7 @@ html{
 
   .xl\:focus\:bg-japan-A-400:focus {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .xl\:bg-none {
@@ -120338,8 +120338,8 @@ html{
   }
 
   .xl\:from-japan-A-400 {
-    --tw-gradient-from: #22285A;
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-from: #041149;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .xl\:via-transparent {
@@ -120679,7 +120679,7 @@ html{
   }
 
   .xl\:via-japan-A-400 {
-    --tw-gradient-stops: var(--tw-gradient-from), #22285A, var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), #041149, var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .xl\:to-transparent {
@@ -121019,7 +121019,7 @@ html{
   }
 
   .xl\:to-japan-A-400 {
-    --tw-gradient-to: #22285A;
+    --tw-gradient-to: #041149;
   }
 
   .xl\:hover\:from-transparent:hover {
@@ -121443,8 +121443,8 @@ html{
   }
 
   .xl\:hover\:from-japan-A-400:hover {
-    --tw-gradient-from: #22285A;
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-from: #041149;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .xl\:hover\:via-transparent:hover {
@@ -121784,7 +121784,7 @@ html{
   }
 
   .xl\:hover\:via-japan-A-400:hover {
-    --tw-gradient-stops: var(--tw-gradient-from), #22285A, var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), #041149, var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .xl\:hover\:to-transparent:hover {
@@ -122124,7 +122124,7 @@ html{
   }
 
   .xl\:hover\:to-japan-A-400:hover {
-    --tw-gradient-to: #22285A;
+    --tw-gradient-to: #041149;
   }
 
   .xl\:focus\:from-transparent:focus {
@@ -122548,8 +122548,8 @@ html{
   }
 
   .xl\:focus\:from-japan-A-400:focus {
-    --tw-gradient-from: #22285A;
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-from: #041149;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .xl\:focus\:via-transparent:focus {
@@ -122889,7 +122889,7 @@ html{
   }
 
   .xl\:focus\:via-japan-A-400:focus {
-    --tw-gradient-stops: var(--tw-gradient-from), #22285A, var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), #041149, var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .xl\:focus\:to-transparent:focus {
@@ -123229,7 +123229,7 @@ html{
   }
 
   .xl\:focus\:to-japan-A-400:focus {
-    --tw-gradient-to: #22285A;
+    --tw-gradient-to: #041149;
   }
 
   .xl\:bg-opacity-0 {
@@ -124032,7 +124032,7 @@ html{
 
   .xl\:border-japan-A-400 {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .group:hover .xl\:group-hover\:border-transparent {
@@ -124455,7 +124455,7 @@ html{
 
   .group:hover .xl\:group-hover\:border-japan-A-400 {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .xl\:focus-within\:border-transparent:focus-within {
@@ -124878,7 +124878,7 @@ html{
 
   .xl\:focus-within\:border-japan-A-400:focus-within {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .xl\:hover\:border-transparent:hover {
@@ -125301,7 +125301,7 @@ html{
 
   .xl\:hover\:border-japan-A-400:hover {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .xl\:focus\:border-transparent:focus {
@@ -125724,7 +125724,7 @@ html{
 
   .xl\:focus\:border-japan-A-400:focus {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .xl\:border-opacity-0 {
@@ -131717,7 +131717,7 @@ html{
 
   .xl\:placeholder-japan-A-400::placeholder {
     --tw-placeholder-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-placeholder-opacity));
+    color: rgba(4, 17, 73, var(--tw-placeholder-opacity));
   }
 
   .xl\:focus\:placeholder-transparent:focus::placeholder {
@@ -132140,7 +132140,7 @@ html{
 
   .xl\:focus\:placeholder-japan-A-400:focus::placeholder {
     --tw-placeholder-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-placeholder-opacity));
+    color: rgba(4, 17, 73, var(--tw-placeholder-opacity));
   }
 
   .xl\:placeholder-opacity-0::placeholder {
@@ -135769,7 +135769,7 @@ html{
   }
 
   .xl\:ring-offset-japan-A-400 {
-    --tw-ring-offset-color: #22285A;
+    --tw-ring-offset-color: #041149;
   }
 
   .xl\:focus-within\:ring-offset-transparent:focus-within {
@@ -136109,7 +136109,7 @@ html{
   }
 
   .xl\:focus-within\:ring-offset-japan-A-400:focus-within {
-    --tw-ring-offset-color: #22285A;
+    --tw-ring-offset-color: #041149;
   }
 
   .xl\:focus\:ring-offset-transparent:focus {
@@ -136449,7 +136449,7 @@ html{
   }
 
   .xl\:focus\:ring-offset-japan-A-400:focus {
-    --tw-ring-offset-color: #22285A;
+    --tw-ring-offset-color: #041149;
   }
 
   .xl\:ring-offset-0 {
@@ -136932,7 +136932,7 @@ html{
 
   .xl\:ring-japan-A-400 {
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgba(34, 40, 90, var(--tw-ring-opacity));
+    --tw-ring-color: rgba(4, 17, 73, var(--tw-ring-opacity));
   }
 
   .xl\:focus-within\:ring-transparent:focus-within {
@@ -137355,7 +137355,7 @@ html{
 
   .xl\:focus-within\:ring-japan-A-400:focus-within {
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgba(34, 40, 90, var(--tw-ring-opacity));
+    --tw-ring-color: rgba(4, 17, 73, var(--tw-ring-opacity));
   }
 
   .xl\:focus\:ring-transparent:focus {
@@ -137778,7 +137778,7 @@ html{
 
   .xl\:focus\:ring-japan-A-400:focus {
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgba(34, 40, 90, var(--tw-ring-opacity));
+    --tw-ring-color: rgba(4, 17, 73, var(--tw-ring-opacity));
   }
 
   .xl\:ring-opacity-0 {
@@ -138425,7 +138425,7 @@ html{
 
   .xl\:text-japan-A-400 {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .group:hover .xl\:group-hover\:text-transparent {
@@ -138848,7 +138848,7 @@ html{
 
   .group:hover .xl\:group-hover\:text-japan-A-400 {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .xl\:focus-within\:text-transparent:focus-within {
@@ -139271,7 +139271,7 @@ html{
 
   .xl\:focus-within\:text-japan-A-400:focus-within {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .xl\:hover\:text-transparent:hover {
@@ -139694,7 +139694,7 @@ html{
 
   .xl\:hover\:text-japan-A-400:hover {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .xl\:focus\:text-transparent:focus {
@@ -140117,7 +140117,7 @@ html{
 
   .xl\:focus\:text-japan-A-400:focus {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .xl\:text-opacity-0 {
@@ -146330,7 +146330,7 @@ html{
 
   .\32xl\:divide-japan-A-400 > :not([hidden]) ~ :not([hidden]) {
     --tw-divide-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-divide-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-divide-opacity));
   }
 
   .\32xl\:divide-solid > :not([hidden]) ~ :not([hidden]) {
@@ -146936,7 +146936,7 @@ html{
 
   .\32xl\:bg-japan-A-400 {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .group:hover .\32xl\:group-hover\:bg-transparent {
@@ -147359,7 +147359,7 @@ html{
 
   .group:hover .\32xl\:group-hover\:bg-japan-A-400 {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .\32xl\:focus-within\:bg-transparent:focus-within {
@@ -147782,7 +147782,7 @@ html{
 
   .\32xl\:focus-within\:bg-japan-A-400:focus-within {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .\32xl\:hover\:bg-transparent:hover {
@@ -148205,7 +148205,7 @@ html{
 
   .\32xl\:hover\:bg-japan-A-400:hover {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .\32xl\:focus\:bg-transparent:focus {
@@ -148628,7 +148628,7 @@ html{
 
   .\32xl\:focus\:bg-japan-A-400:focus {
     --tw-bg-opacity: 1;
-    background-color: rgba(34, 40, 90, var(--tw-bg-opacity));
+    background-color: rgba(4, 17, 73, var(--tw-bg-opacity));
   }
 
   .\32xl\:bg-none {
@@ -149088,8 +149088,8 @@ html{
   }
 
   .\32xl\:from-japan-A-400 {
-    --tw-gradient-from: #22285A;
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-from: #041149;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .\32xl\:via-transparent {
@@ -149429,7 +149429,7 @@ html{
   }
 
   .\32xl\:via-japan-A-400 {
-    --tw-gradient-stops: var(--tw-gradient-from), #22285A, var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), #041149, var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .\32xl\:to-transparent {
@@ -149769,7 +149769,7 @@ html{
   }
 
   .\32xl\:to-japan-A-400 {
-    --tw-gradient-to: #22285A;
+    --tw-gradient-to: #041149;
   }
 
   .\32xl\:hover\:from-transparent:hover {
@@ -150193,8 +150193,8 @@ html{
   }
 
   .\32xl\:hover\:from-japan-A-400:hover {
-    --tw-gradient-from: #22285A;
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-from: #041149;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .\32xl\:hover\:via-transparent:hover {
@@ -150534,7 +150534,7 @@ html{
   }
 
   .\32xl\:hover\:via-japan-A-400:hover {
-    --tw-gradient-stops: var(--tw-gradient-from), #22285A, var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), #041149, var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .\32xl\:hover\:to-transparent:hover {
@@ -150874,7 +150874,7 @@ html{
   }
 
   .\32xl\:hover\:to-japan-A-400:hover {
-    --tw-gradient-to: #22285A;
+    --tw-gradient-to: #041149;
   }
 
   .\32xl\:focus\:from-transparent:focus {
@@ -151298,8 +151298,8 @@ html{
   }
 
   .\32xl\:focus\:from-japan-A-400:focus {
-    --tw-gradient-from: #22285A;
-    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-from: #041149;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .\32xl\:focus\:via-transparent:focus {
@@ -151639,7 +151639,7 @@ html{
   }
 
   .\32xl\:focus\:via-japan-A-400:focus {
-    --tw-gradient-stops: var(--tw-gradient-from), #22285A, var(--tw-gradient-to, rgba(34, 40, 90, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), #041149, var(--tw-gradient-to, rgba(4, 17, 73, 0));
   }
 
   .\32xl\:focus\:to-transparent:focus {
@@ -151979,7 +151979,7 @@ html{
   }
 
   .\32xl\:focus\:to-japan-A-400:focus {
-    --tw-gradient-to: #22285A;
+    --tw-gradient-to: #041149;
   }
 
   .\32xl\:bg-opacity-0 {
@@ -152782,7 +152782,7 @@ html{
 
   .\32xl\:border-japan-A-400 {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .group:hover .\32xl\:group-hover\:border-transparent {
@@ -153205,7 +153205,7 @@ html{
 
   .group:hover .\32xl\:group-hover\:border-japan-A-400 {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .\32xl\:focus-within\:border-transparent:focus-within {
@@ -153628,7 +153628,7 @@ html{
 
   .\32xl\:focus-within\:border-japan-A-400:focus-within {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .\32xl\:hover\:border-transparent:hover {
@@ -154051,7 +154051,7 @@ html{
 
   .\32xl\:hover\:border-japan-A-400:hover {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .\32xl\:focus\:border-transparent:focus {
@@ -154474,7 +154474,7 @@ html{
 
   .\32xl\:focus\:border-japan-A-400:focus {
     --tw-border-opacity: 1;
-    border-color: rgba(34, 40, 90, var(--tw-border-opacity));
+    border-color: rgba(4, 17, 73, var(--tw-border-opacity));
   }
 
   .\32xl\:border-opacity-0 {
@@ -160467,7 +160467,7 @@ html{
 
   .\32xl\:placeholder-japan-A-400::placeholder {
     --tw-placeholder-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-placeholder-opacity));
+    color: rgba(4, 17, 73, var(--tw-placeholder-opacity));
   }
 
   .\32xl\:focus\:placeholder-transparent:focus::placeholder {
@@ -160890,7 +160890,7 @@ html{
 
   .\32xl\:focus\:placeholder-japan-A-400:focus::placeholder {
     --tw-placeholder-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-placeholder-opacity));
+    color: rgba(4, 17, 73, var(--tw-placeholder-opacity));
   }
 
   .\32xl\:placeholder-opacity-0::placeholder {
@@ -164519,7 +164519,7 @@ html{
   }
 
   .\32xl\:ring-offset-japan-A-400 {
-    --tw-ring-offset-color: #22285A;
+    --tw-ring-offset-color: #041149;
   }
 
   .\32xl\:focus-within\:ring-offset-transparent:focus-within {
@@ -164859,7 +164859,7 @@ html{
   }
 
   .\32xl\:focus-within\:ring-offset-japan-A-400:focus-within {
-    --tw-ring-offset-color: #22285A;
+    --tw-ring-offset-color: #041149;
   }
 
   .\32xl\:focus\:ring-offset-transparent:focus {
@@ -165199,7 +165199,7 @@ html{
   }
 
   .\32xl\:focus\:ring-offset-japan-A-400:focus {
-    --tw-ring-offset-color: #22285A;
+    --tw-ring-offset-color: #041149;
   }
 
   .\32xl\:ring-offset-0 {
@@ -165682,7 +165682,7 @@ html{
 
   .\32xl\:ring-japan-A-400 {
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgba(34, 40, 90, var(--tw-ring-opacity));
+    --tw-ring-color: rgba(4, 17, 73, var(--tw-ring-opacity));
   }
 
   .\32xl\:focus-within\:ring-transparent:focus-within {
@@ -166105,7 +166105,7 @@ html{
 
   .\32xl\:focus-within\:ring-japan-A-400:focus-within {
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgba(34, 40, 90, var(--tw-ring-opacity));
+    --tw-ring-color: rgba(4, 17, 73, var(--tw-ring-opacity));
   }
 
   .\32xl\:focus\:ring-transparent:focus {
@@ -166528,7 +166528,7 @@ html{
 
   .\32xl\:focus\:ring-japan-A-400:focus {
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgba(34, 40, 90, var(--tw-ring-opacity));
+    --tw-ring-color: rgba(4, 17, 73, var(--tw-ring-opacity));
   }
 
   .\32xl\:ring-opacity-0 {
@@ -167175,7 +167175,7 @@ html{
 
   .\32xl\:text-japan-A-400 {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .group:hover .\32xl\:group-hover\:text-transparent {
@@ -167598,7 +167598,7 @@ html{
 
   .group:hover .\32xl\:group-hover\:text-japan-A-400 {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .\32xl\:focus-within\:text-transparent:focus-within {
@@ -168021,7 +168021,7 @@ html{
 
   .\32xl\:focus-within\:text-japan-A-400:focus-within {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .\32xl\:hover\:text-transparent:hover {
@@ -168444,7 +168444,7 @@ html{
 
   .\32xl\:hover\:text-japan-A-400:hover {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .\32xl\:focus\:text-transparent:focus {
@@ -168867,7 +168867,7 @@ html{
 
   .\32xl\:focus\:text-japan-A-400:focus {
     --tw-text-opacity: 1;
-    color: rgba(34, 40, 90, var(--tw-text-opacity));
+    color: rgba(4, 17, 73, var(--tw-text-opacity));
   }
 
   .\32xl\:text-opacity-0 {

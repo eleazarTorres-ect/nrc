@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       colors:{
-        'japan-A-400': '#22285A',
+        'japan-A-400': '#041149',
         
       },
       
