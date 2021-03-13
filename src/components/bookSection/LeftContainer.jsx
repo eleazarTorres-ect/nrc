@@ -1,21 +1,21 @@
 const LeftContainer = () => {
   return (
-    <div className="flex flex-wrap content-start w-full lg:w-1/2 pl-2 sm:pl-24 md:pl-24 lg:pl-48">
+    <div className="flex flex-wrap content-start w-full px-2 md:content-center lg:content-start sm:px-24 md:px-24 lg:pl-48">
       <div data-aos="fade-right" data-aos-duration="500">
-        <div className="public_extrabold text-white text-4xl text-center md:text-left mb-5">
+        <div className="mb-5 text-4xl text-center text-white public_extrabold md:text-left">
           Featured Book
         </div>
-        <div className="public_semibold text-white text-2xl text-center md:text-left mb-2">
+        <div className="mb-2 text-2xl text-center text-white public_semibold md:text-left">
           100 Guide in Traveling Japan
         </div>
 
-        <div className="public_thin mt-2 text-sm text-white text-center md:text-left">
+        <div className="mt-2 text-sm text-center text-white public_thin md:text-left">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
           minim veniam, quis nostrud exercitation ullamco laboris nisi ut
           aliquip ex ea commodo consequat.
         </div>
-        <div className="public_thin mt-2 text-sm text-white text-center md:text-left">
+        <div className="mt-2 text-sm text-center text-white public_thin md:text-left">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
           minim veniam, quis nostrud exercitation ullamco laboris nisi ut

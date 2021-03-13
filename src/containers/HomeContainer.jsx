@@ -21,7 +21,7 @@ const HomeContainer = () => {
       <section className="flex content-center justify-between screenFromNav h-auto w-full ">
         <SubscriptionContainer />
       </section>
-      <section className="flex content-center justify-between screenFromNav h-auto w-full hidden">
+      <section className="flex content-center justify-between screenFromNav h-auto w-full ">
         <BookContainer />
       </section>
       <section className="flex content-center justify-between screenFromNav h-auto w-full hidden">
