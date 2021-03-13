@@ -18,6 +18,9 @@ const LeftContainer = () => {
           minim veniam, quis nostrud exercitation ullamco laboris nisi ut
           aliquip ex ea commodo consequat.
         </div>
+        <div className="public_regular mt-4 text-sm text-white text-center md:text-left hover:underline">
+          Learn more.
+        </div>
       </div>
     </div>
   );

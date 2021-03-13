@@ -9,6 +9,8 @@ const RightContainer = () => {
             className="h-48 rounded-lg shadow-xl shake lg:h-full"
             src={Logo1}
             alt="Banner"
+            data-aos="fade-left"
+            data-aos-duration="500"
           />
         </div>
       </div>

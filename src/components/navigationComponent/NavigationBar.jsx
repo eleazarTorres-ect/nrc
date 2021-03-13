@@ -67,7 +67,7 @@ const NavigationBar = () => {
           linkReference="#book"
           id="bookNav"
           status="active"
-          label="Books"
+          label="Book"
         />
         <MenuComponent
           linkReference="#footer"
