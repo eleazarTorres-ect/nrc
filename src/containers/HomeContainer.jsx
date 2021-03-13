@@ -9,22 +9,22 @@ import SubscriptionContainer from "../components/subscriptionSection/Subscriptio
 const HomeContainer = () => {
   return (
     <React.Fragment>
-      <section className="flex content-center justify-between h-screen w-full">
+      <section className="flex content-center justify-between w-full h-screen">
         <BannerContainer />
       </section>
 
       <NavigationBar />
 
-      <section className="flex content-center justify-between screenFromNav h-auto w-full ">
+      <section className="flex content-center justify-between w-full h-auto screenFromNav ">
         <AboutUsContainer />
       </section>
-      <section className="flex content-center justify-between screenFromNav h-auto w-full ">
+      <section className="flex content-center justify-between w-full h-auto screenFromNav ">
         <SubscriptionContainer />
       </section>
-      <section className="flex content-center justify-between screenFromNav h-auto w-full ">
+      <section className="flex content-center justify-between w-full h-auto screenFromNav ">
         <BookContainer />
       </section>
-      <section className="flex content-center justify-between screenFromNav h-auto w-full hidden">
+      <section className="flex content-center justify-between w-full h-auto screenFromNav">
         <FooterContainer />
       </section>
     </React.Fragment>

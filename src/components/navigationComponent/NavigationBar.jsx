@@ -13,12 +13,15 @@ const NavigationBar = () => {
     var books = $("#book").offset().top - 500;
     var contactUs = $("#footer").offset().top - 540;
     console.log($(window).scrollTop());
-    if ($(window).scrollTop() >= 1350) {
+    if ($(window).scrollTop() >= 1330 && $(window).scrollTop() <= 1450) {
       $("#navBar").removeClass("bg-japan-A-400 ");
-      $("#navBar").addClass("bg-transparent");
+      $("#navBar").addClass("bg-purple-400");
+    } else if ($(window).scrollTop() <= 1450) {
+      $("#navBar").addClass("bg-japan-A-400");
+      $("#navBar").removeClass("bg-purple-400");
     } else {
-      $("#navBar").addClass("bg-japan-A-400 ");
-      $("#navBar").removeClass("bg-transparent");
+      $("#navBar").addClass("bg-transparent ");
+      $("#navBar").removeClass("bg-purple-400");
     }
     if ($(window).scrollTop() >= home) {
       $("#homeNav").addClass("public_semibold border-b-2 ");
@@ -47,10 +50,10 @@ const NavigationBar = () => {
   });
   return (
     <nav className={navDisplay + navPadding} id="navBar">
-      <div className="flex flex-grow items-center hidden md:flex">
+      <div className="flex items-center flex-grow hidden md:flex">
         <LogoNavComponent image="" />
       </div>
-      <div className="flex items-center public_thin text-xs">
+      <div className="flex items-center text-xs public_thin">
         <MenuComponent
           linkReference="#home"
           id="homeNav"
