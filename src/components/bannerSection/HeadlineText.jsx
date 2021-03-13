@@ -1,10 +1,10 @@
 import Logo1 from "../../assets/img/NRC-03.svg";
 const HeadlineText = () => {
   return (
-    <div className="h-screen w-full absolute flex flex-wrap justify-center md:justify-end content-start pt-36 md:pt-20 px-20">
+    <div className="h-screen w-full absolute flex flex-wrap justify-center md:justify-end content-start pt-36 lg:pt-96 xl:pt-48 2xl:pt-36 px-20 lg:px-36">
       <div>
         <div
-          className="poppins_bold text-white  text-center md:text-right"
+          className="poppins_bold text-white  text-center xl:text-right"
           id="text"
         >
           <p className="text-7xl md:text-9xl"> Japan Hub</p>

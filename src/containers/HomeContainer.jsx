@@ -15,16 +15,16 @@ const HomeContainer = () => {
 
       <NavigationBar />
 
-      <section className="flex content-center justify-between screenFromNav h-auto w-full">
+      <section className="flex content-center justify-between screenFromNav h-auto w-full ">
         <AboutUsContainer />
       </section>
-      <section className="flex content-center justify-between screenFromNav h-auto w-full">
+      <section className="flex content-center justify-between screenFromNav h-auto w-full ">
         <SubscriptionContainer />
       </section>
-      <section className="flex content-center justify-between screenFromNav h-auto w-full">
+      <section className="flex content-center justify-between screenFromNav h-auto w-full hidden">
         <BookContainer />
       </section>
-      <section className="flex content-center justify-between screenFromNav h-auto w-full">
+      <section className="flex content-center justify-between screenFromNav h-auto w-full hidden">
         <FooterContainer />
       </section>
     </React.Fragment>
