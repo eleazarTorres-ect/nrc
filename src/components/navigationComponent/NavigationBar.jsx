@@ -12,7 +12,6 @@ const NavigationBar = () => {
     var aboutUs = $("#aboutUs").offset().top;
     var books = $("#book").offset().top - 500;
     var contactUs = $("#footer").offset().top - 540;
-    console.log($(window).scrollTop());
     if ($(window).scrollTop() >= 1330 && $(window).scrollTop() <= 1450) {
       $("#navBar").removeClass("bg-japan-A-400 ");
       $("#navBar").addClass("bg-purple-400");
